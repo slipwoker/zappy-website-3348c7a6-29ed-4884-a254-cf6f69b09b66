@@ -1,0 +1,89 @@
+# 𝐆𝐫𝐢𝐥 — Generative Engine Optimization Map
+
+> An online clothing store focused on selling fashion items. The brand identity, style, target audience, and unique selling points are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://-3348c7a6.zappy5.app
+היכנסי לעולם של סטייל ייחודי עם הקולקציות החדשות שלנו. בגדי אופנה לאתר אופנה שמדבר בשפה שלך, עם טרנדים עדכניים ומראה בלתי נשכח. התחילי לעצב את ההופעה המושלמת עוד היום.
+
+### לוקבוק
+https://-3348c7a6.zappy5.app/lookbook
+צללי לתוך לוקבוק מלא השראה עם מראות אופנה עדכניים שמספרים סיפור. גלי שילובים מפתיעים, טקסטורות עשירות ופריטי חובה שיהפכו כל הופעה לבלתי נשכחת. הקליקי עכשיו לחוויית סטיילינג.
+
+### קיימות
+https://-3348c7a6.zappy5.app/sustainability
+אנחנו מאמינים שאופנה יכולה לשנות מציאות. גלי את הדרך שלנו לקיימות אמיתית, מייצור הוגן ועד בדים אקולוגיים שמכבדים את הסביבה. הצטרפי למהפכה הירוקה והתלבשי עם משמעות.
+
+### אודות
+https://-3348c7a6.zappy5.app/about
+הכירי את הלב הפועם של המותג – מאיפה התחלנו, מה מניע אותנו ולמה כל פריט נבחר בקפידה כדי לשדרג את המלתחה שלך. בואי לגלות את התשוקה שמאחורי כל תפר, ולהפוך לחלק מהמסע.
+
+### צור קשר
+https://-3348c7a6.zappy5.app/contact
+יש לך שאלה על מידה, משלוח או סתם בא לך לשתף רעיון? אנחנו כאן בשבילך עם חיוך ושירות אישי. מלאי את הפרטים ונחזור אלייך במהירות כדי להפוך כל פנייה לחוויית קנייה מושלמת.
+
+### Products
+https://-3348c7a6.zappy5.app/products
+המוצרים שלנו - 𝐆𝐫𝐢𝐥
+
+### Product Detail
+https://-3348c7a6.zappy5.app/product/:slug
+פרטי המוצר - 𝐆𝐫𝐢𝐥
+
+### Category
+https://-3348c7a6.zappy5.app/category/:slug
+מוצרים - 𝐆𝐫𝐢𝐥
+
+### תודה רבה | ההודעה התקבלה
+https://-3348c7a6.zappy5.app/thank-you
+תודה רבה על פנייתך ל-Gril, מותג אופנה והלבשה מוביל. פנייתך התקבלה בהצלחה ונחזור אלייך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3348c7a6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3348c7a6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3348c7a6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 𝐆𝐫𝐢𝐥
+An online clothing store focused on selling fashion items. The brand identity, style, target audience, and unique selling points are yet to be defined.
+
+## Target Audience
+- נשים צעירות אופנתיות
+- קונים ידידותיים לסביבה
+- מקצוענים עירוניים
+- אנשי קשר
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3348c7a6.zappy5.app/sitemap.xml
+- Robots: https://-3348c7a6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3348c7a6.zappy5.app/llms-full.txt
+- Products (JSON): https://-3348c7a6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-3348c7a6.zappy5.app/product-feed.xml
