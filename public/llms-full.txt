@@ -2,13 +2,13 @@
 
 An online clothing store focused on selling fashion items. The brand identity, style, target audience, and unique selling points are yet to be defined.
 
-Source: https://-3348c7a6.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את הקסם שבאופנה — 𝐆𝐫𝐢𝐥
 
-URL: https://-3348c7a6.zappy5.app
+URL: https://example.com
 Description: היכנסי לעולם של סטייל ייחודי עם הקולקציות החדשות שלנו. בגדי אופנה לאתר אופנה שמדבר בשפה שלך, עם טרנדים עדכניים ומראה בלתי נשכח. התחילי לעצב את ההופעה המושלמת עוד היום.
 
 גלי את הקסם שבאופנה — 𝐆𝐫𝐢𝐥
@@ -471,7 +471,7 @@ Description: היכנסי לעולם של סטייל ייחודי עם הקול�
 
 ## השראה ויזואלית שתשנה את הסגנון שלך — 𝐆𝐫𝐢𝐥
 
-URL: https://-3348c7a6.zappy5.app/lookbook
+URL: https://example.com/lookbook
 Description: צללי לתוך לוקבוק מלא השראה עם מראות אופנה עדכניים שמספרים סיפור. גלי שילובים מפתיעים, טקסטורות עשירות ופריטי חובה שיהפכו כל הופעה לבלתי נשכחת. הקליקי עכשיו לחוויית סטיילינג.
 
 השראה ויזואלית שתשנה את הסגנון שלך — 𝐆𝐫𝐢𝐥
@@ -816,7 +816,7 @@ Description: צללי לתוך לוקבוק מלא השראה עם מראות א
 
 ## אופנה עם אחריות לעולם טוב יותר — 𝐆𝐫𝐢𝐥
 
-URL: https://-3348c7a6.zappy5.app/sustainability
+URL: https://example.com/sustainability
 Description: אנחנו מאמינים שאופנה יכולה לשנות מציאות. גלי את הדרך שלנו לקיימות אמיתית, מייצור הוגן ועד בדים אקולוגיים שמכבדים את הסביבה. הצטרפי למהפכה הירוקה והתלבשי עם משמעות.
 
 אופנה עם אחריות לעולם טוב יותר — 𝐆𝐫𝐢𝐥
@@ -1189,7 +1189,7 @@ Description: אנחנו מאמינים שאופנה יכולה לשנות מצי
 
 ## הסיפור שמאחורי הסטייל שלך — 𝐆𝐫𝐢𝐥
 
-URL: https://-3348c7a6.zappy5.app/about
+URL: https://example.com/about
 Description: הכירי את הלב הפועם של המותג – מאיפה התחלנו, מה מניע אותנו ולמה כל פריט נבחר בקפידה כדי לשדרג את המלתחה שלך. בואי לגלות את התשוקה שמאחורי כל תפר, ולהפוך לחלק מהמסע.
 
 הסיפור שמאחורי הסטייל שלך — 𝐆𝐫𝐢𝐥
@@ -1589,7 +1589,7 @@ Description: הכירי את הלב הפועם של המותג – מאיפה ה
 
 ## בואי נתחיל שיחה שמובילה לסטייל — 𝐆𝐫𝐢𝐥
 
-URL: https://-3348c7a6.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על מידה, משלוח או סתם בא לך לשתף רעיון? אנחנו כאן בשבילך עם חיוך ושירות אישי. מלאי את הפרטים ונחזור אלייך במהירות כדי להפוך כל פנייה לחוויית קנייה מושלמת.
 
 בואי נתחיל שיחה שמובילה לסטייל — 𝐆𝐫𝐢𝐥
@@ -1981,7 +1981,7 @@ Description: יש לך שאלה על מידה, משלוח או סתם בא לך 
 
 ## מוצרים
 
-URL: https://-3348c7a6.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - 𝐆𝐫𝐢𝐥
 
 מוצרים - 𝐆𝐫𝐢𝐥
@@ -2351,7 +2351,7 @@ Description: המוצרים שלנו - 𝐆𝐫𝐢𝐥
 
 ## פרטי המוצר
 
-URL: https://-3348c7a6.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - 𝐆𝐫𝐢𝐥
 
 פרטי המוצר - 𝐆𝐫𝐢𝐥
@@ -2565,7 +2565,7 @@ Description: פרטי המוצר - 𝐆𝐫𝐢𝐥
 
 ## מוצרים
 
-URL: https://-3348c7a6.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - 𝐆𝐫𝐢𝐥
 
 מוצרים - 𝐆𝐫𝐢𝐥
@@ -2803,7 +2803,7 @@ Description: מוצרים - 𝐆𝐫𝐢𝐥
 
 ## מדיניות פרטיות
 
-URL: https://-3348c7a6.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3083,7 +3083,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-3348c7a6.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3372,7 +3372,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-3348c7a6.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3680,7 +3680,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה | ההודעה התקבלה
 
-URL: https://-3348c7a6.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך ל-Gril, מותג אופנה והלבשה מוביל. פנייתך התקבלה בהצלחה ונחזור אלייך בהקדם.
 
 תודה רבה | ההודעה התקבלה
