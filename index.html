@@ -780,14 +780,14 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "3348c7a6-29ed-4884-a254-cf6f69b09b66";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "3348c7a6-29ed-4884-a254-cf6f69b09b66";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <!-- Mobile buttons -->
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1294,17 +1294,17 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" data-hero-type="fullscreen-scrim">
-  <img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Minimal boutique fashion photograph: a young woman in relaxed, elegant street-style clothing (neutral tones, flowing fabric) standing on the right side of the frame. Clean, soft natural lighting. Empty negative space on the left side of the image. Editorial, calm, atelier mood." width="1200" height="800" src="/assets/site-image-index-hero-image-1.webp" alt="דוגמנית בבגדי רחוב אלגנטיים" decoding="async" />
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" data-hero-type="fullscreen-scrim" id="index-hero-section">
+  <img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Minimal boutique fashion photograph: a young woman in relaxed, elegant street-style clothing (neutral tones, flowing fabric) standing on the right side of the frame. Clean, soft natural lighting. Empty negative space on the left side of the image. Editorial, calm, atelier mood." width="1200" height="800" src="/assets/site-image-index-hero-image-1.webp" alt="דוגמנית בבגדי רחוב אלגנטיים" data-hero-background="true" data-element-type="image" data-element-id="img-1784227264601-5ttpvjb0b" decoding="async" />
 
   <div class="hero-fade-content">
     <div class="hero-text-block">
-      <span class="hero-eyebrow">קולקציית קיץ 2025</span>
-      <h1 class="display-xl">פריטים ללא מאמץ<br />לכל יום בעיר</h1>
+      <p class="zappy-editable"><span class="hero-eyebrow">קולקציית קיץ 2025</span>
+      </p><h1 class="display-xl">פריטים ללא מאמץ<br />לכל יום בעיר</h1>
       <h3 class="hero-subtitle">ביגוד מעודן שעוצב לתנועה, ביטחון וסטייל יומיומי מודע</h3>
       <div class="hero-cta-row">
-        <a href="/collection" class="btn-primary">גלו את הקולקציה</a>
-        <a href="/contact" class="btn-secondary">צרו קשר</a>
+        <a href="/" class="btn btn-outline btn-secondary" data-element-type="button" data-element-id="btn-1784227264585-l91zfarzm" data-native-element="true" style="outline: currentcolor; border-color: rgb(59, 130, 246) !important; color: rgb(59, 130, 246) !important; background-color: transparent !important; background-image: none !important;">גלו את הקולקציה</a>
+        <a href="/contact" class="btn-secondary" data-element-type="button" data-element-id="btn-1784227264585-dpwmax1ti" data-native-element="true">צרו קשר</a>
       </div>
       <div class="hero-accent-line" aria-hidden="true"></div>
     </div>
